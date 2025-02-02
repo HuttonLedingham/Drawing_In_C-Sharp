@@ -1,0 +1,10 @@
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\bin\Release\DrawingExample.exe.config
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\bin\Release\DrawingExample.exe
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\bin\Release\DrawingExample.pdb
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\obj\Release\DrawingExample.Form1.resources
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\obj\Release\DrawingExample.Properties.Resources.resources
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\obj\Release\DrawingExample.csproj.GenerateResource.cache
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\obj\Release\DrawingExample.csproj.CoreCompileInputs.cache
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\obj\Release\DrawingExample.exe
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\obj\Release\DrawingExample.pdb
+G:\My Drive\Coding Folders\DrawingExample\DrawingExample\obj\Release\DrawingExample.csproj.AssemblyReference.cache
